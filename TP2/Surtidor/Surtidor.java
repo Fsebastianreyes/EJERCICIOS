@@ -71,4 +71,4 @@ public class Surtidor {
     public boolean depositosLlenos() {
         return (cantGasoil == maximaCarga && cantPremium == maximaCarga && cantSuper == maximaCarga);
     }
-}
+} holaaaa
