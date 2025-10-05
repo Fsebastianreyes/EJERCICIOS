@@ -43,7 +43,7 @@ public class SimulacionSurtidor{
                 surtidor.llenarDepositoSuper();
                 break;
             case 6:
-                surtidor.extraerPremium();
+                surtidor.extraerPremium(cargaGasoil);
                 break;
             default:
                 System.out.println("Opcion invalida");
