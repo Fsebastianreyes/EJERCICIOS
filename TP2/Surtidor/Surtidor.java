@@ -1,4 +1,5 @@
 package TP2.Surtidor;
+
 public class Surtidor {
     // atributo de clase
     private static final int maximaCarga = 0;
@@ -71,4 +72,4 @@ public class Surtidor {
     public boolean depositosLlenos() {
         return (cantGasoil == maximaCarga && cantPremium == maximaCarga && cantSuper == maximaCarga);
     }
-} holaaaa
+}
