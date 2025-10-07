@@ -51,5 +51,10 @@ public class SimulacionSurtidor{
         }
     }
 }
+
+    private static void setCantGasoil(int cargaGasoil) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setCantGasoil'");
+    }
 sc.close();
 }
